@@ -4,12 +4,7 @@ import { NOT_EKLE, NOT_SIL } from "./actions";
 const s10chLocalStorageKey = "s10ch";
 
 const baslangicDegerleri = {
-  notlar: [
-    {
-      id: "75g1IyBgs8JLehAr0Lr5v3p",
-      date: "Fri May 27 2023 01:40:27 GMT+0300 (GMT+03:00)",
-      body: "Bugün Aytaç çok mutsuz :(|Ayşegül her şeye atarlı :)|Serkan bizi ekti | Biz de Yaşar'ı ektik",
-    }, 
+  notlar: [ 
     {
       id: "75g1IyB8JLehAr0Lr5v3p",
       date: "Fri May 27 2023 09:40:27 GMT+0300 (GMT+03:00)",
